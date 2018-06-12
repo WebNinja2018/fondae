@@ -1,0 +1,1 @@
+<a href="{{ route('password.open.form',['token' => $token]) }}">reset password</a>

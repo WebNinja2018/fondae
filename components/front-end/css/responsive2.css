@@ -1,0 +1,98 @@
+
+@media screen and (max-width: 1024px) {
+.staff-list.best-staff .col-md-3.our_staff .staff-item { padding:15px;}
+.industries_img {height: 170px;}
+.edugate-layout-3 .edugate-content .title { font-size:16px;}
+.myaccount_dashboard .thumbnail .caption a {left: 57px;}
+.myaccount_inner .method-item.right_form .order_history .col-sm-9 { width:60%;}
+.myaccount_inner .method-item.right_form .order_history .col-sm-3 { width:40%;text-align: right;}
+
+}
+
+@media screen and (max-width: 980px) {
+.contact-method.col-md-4  .col-md-12{ padding:0px;}
+.contact-method .method-item .detail .col-md-1 { width:6%;float: left;}
+.contact-method .method-item .detail .col-md-1 i.fa-map-marker { margin-bottom:40px;}
+.login-form .input-group span i { margin:4px -4px;}
+.myaccount_dashboard .thumbnail .caption a {left: 70px;}
+.col-md-4.myaccount_inner .col-md-12 { padding:0px;}
+.myaccount_inner.col-md-4 { padding-left:0px;}
+.myaccount_inner.col-md-8 { padding-right:0px;}
+header .header-topbar .group-sign-in { margin-left:40px;}
+.billing_detail_method .col-md-6.col-sm-6 { width:100%;}
+.myaccount_inner .method-item.right_form .serch_form .searchbutton { background:#86bc42 url(images/search.png) no-repeat 10px;}
+}
+@media screen and (max-width: 800px) {
+.myaccount_inner .method-item.right_form .order_history .order_number { height:auto;}
+}
+@media screen and (max-width: 768px) {
+.best-staff .best-staff-wrapper { margin-bottom:0px;}
+
+}
+@media screen and (max-width: 736px) {
+.topbar-left.pull-left, .topbar-right.pull-right { width:100%; float:none; text-align:center;}
+header .header-topbar .socials { display:inline-block;border-top:none;}
+.col-sm-6 .rlp-table { margin-bottom:30px; width:100%;}
+.myaccount_dashboard .thumbnail .caption a {left: 60px;}
+.myaccount_inner.col-md-4 { padding-left:0px; padding-right:0px;}
+.myaccount_inner.col-md-8 { padding-right:0px;padding-left:0px;}
+.billing_detail_method .col-md-6.col-sm-6 { width:50%;}
+.myaccount_inner .method-item.right_form .order_history .order_number {height: 60px;}
+.myaccount_inner .method-item.right_form .serch_form .searchbutton { background:#86bc42 url(images/search.png) no-repeat 22px;width:9%;}
+}
+
+@media screen and (max-width: 667px) {
+
+}
+@media screen and (max-width: 640px) {
+.section-padding { padding:50px 0px;}
+.myaccount_dashboard .thumbnail .caption a { left:52px;}
+
+}
+@media screen and (max-width: 600px) {
+.contact-method  .bg-w-form { padding:0px;}
+.myaccount_dashboard .thumbnail .caption a { left:48px;}
+.myaccount_inner .method-item.right_form .serch_form .searchbutton { background:#86bc42 url(images/search.png) no-repeat 16px;}
+}
+@media screen and (max-width: 568px) {
+.myaccount_dashboard .col-xs-6.col-sm-6.col-md-4 { width:100%;}
+.myaccount_dashboard .thumbnail .caption a { left:95px;}
+.billing_detail_method .col-md-6.col-sm-6 { width:100%;}
+.billing_detail_method { padding:0px;}
+.myaccount_inner .method-item h6 { padding:15px 15px;}
+.myaccount_inner .method-item.right_form .col-sm-12 { padding:0px;}
+.myaccount_inner .method-item.right_form .col-sm-12 .col-sm-12 { padding:0 15px;}
+ }
+
+@media screen and (max-width: 536px) {
+
+}
+@media screen and (max-width: 480px) {
+.staff-list.best-staff .col-md-3.col-xs-6 { width:100%;}
+.myaccount_inner .method-item.right_form .order_history .col-sm-9 { width:100%;}
+.myaccount_inner .method-item.right_form .order_history .col-sm-3 { width:100%;}
+.myaccount_inner .method-item.right_form .order_history .col-sm-3 .order_number { height:auto; margin-top:10px;}
+.myaccount_inner .method-item.right_form .serch_form .searchbutton { width:12%;}
+}
+
+@media screen and (max-width: 414px) {
+	.accordion-faq .panel-group .panel .panel-heading h5 a span { width:90%;}
+	.myaccount_dashboard .thumbnail .caption a { left:70px;}
+
+}
+@media screen and (max-width: 380px) {
+	.myaccount_dashboard .thumbnail .caption a { left:65px;}
+
+}
+@media screen and (max-width: 360px) {
+header .header-topbar .socials a { margin-bottom:0px;}
+.myaccount_inner .method-item h6 a { font-size:13px;}
+
+}
+@media screen and (max-width: 320px) {
+.login-form .input-group .form-control { width:87%;}
+.myaccount_dashboard .thumbnail .caption a { left:50px;}
+.myaccount_inner .method-item h6 { font-size:16px;}
+.myaccount_inner .method-item h6 i { font-size:16px;}
+.myaccount_inner .method-item.right_form .serch_form .searchbutton { width:18%;}
+}
