@@ -70,7 +70,7 @@ Route::group(array('prefix' => 'adminarea/role'), function()
 	Route::resource('/singledelete', 'adminarea\Role_controllers@singledelete');
 	Route::resource('/multiplestatus', 'adminarea\Role_controllers@multiplestatus');
 	Route::resource('/multipleDelete', 'adminarea\Role_controllers@multipleDelete');
-	Route::resource('/singlestatus', 'adminarea\Role_controllers@singlestatus');
+
 });
 
 /* For Add User */
